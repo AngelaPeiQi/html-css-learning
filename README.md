@@ -2,44 +2,44 @@
     HTML/CSS 基础教程学习笔记
 
 # 目录
-    * 01_网页结构
-    * 02_字符编码
-    * 03_标签
-    * 04_布局标签
-    * 05_列表
-    * 06_图片
-    * 07_内联框架
-    * 08_文档流
-    * 09_盒模型
-        ** 09_盒模型1（边框、内边距、外边距）
-        ** 09_盒模型2(box-sizing、outline、border-radius、box-shadow)
-        ** 09_行内元素的盒模型
+* 01_网页结构
+* 02_字符编码
+* 03_标签
+* 04_布局标签
+* 05_列表
+* 06_图片
+* 07_内联框架
+* 08_文档流
+* 09_盒模型
+    * 09_盒模型1（边框、内边距、外边距）
+    * 09_盒模型2(box-sizing、outline、border-radius、box-shadow)
+    * 09_行内元素的盒模型
+* 10_水平布局1
     * 10_水平布局1
-        ** 10_水平布局1
-        ** 10_水平布局2（浮动）
-    * 11_垂直外边距的重叠
-    * 12_高度塌陷的问题
-        ** 12_高度塌陷的问题（BFC）
-        ** 12_高度塌陷的最终解决方案（clearfix）
-    * 12_clear
-    * 13_定位
-        ** 13_定位(相对定位、绝对定位、固定定位、粘滞定位)
-        ** 13_绝对定位的布局
-    * 14_文本的样式
-        ** 14_文本的样式（text-align、vertical-align、text-decoration、white-space）
-        ** 14_样式的继承和冲突
-    * 15_字体族
-    * 16_背景
-        ** 16_背景（background-image/repeat/position/clip/origin/size）
-        ** 16_按钮（背景）(link、hover、active)
-        ** 16_渐变（linear-gradient、radial-gradient）
-    * 17_表单
-        * 17_表格
-        * 17_表单（文本框、密码框、按钮框、下拉列表、提交按钮）
-    * 18_过渡
-    * 19_动画
-        ** 19_动画1（@keyframes、animation）
-        ** 19_动画2
-    * 20_less
-    * 21_变形（平移、旋转、缩放）
+    * 10_水平布局2（浮动）
+* 11_垂直外边距的重叠
+* 12_高度塌陷的问题
+    * 12_高度塌陷的问题（BFC）
+    * 12_高度塌陷的最终解决方案（clearfix）
+* 12_clear
+* 13_定位
+    * 13_定位(相对定位、绝对定位、固定定位、粘滞定位)
+    * 13_绝对定位的布局
+* 14_文本的样式
+    * 14_文本的样式（text-align、vertical-align、text-decoration、white-space）
+    * 14_样式的继承和冲突
+* 15_字体族
+* 16_背景
+    * 16_背景（background-image/repeat/position/clip/origin/size）
+    * 16_按钮（背景）(link、hover、active)
+    * 16_渐变（linear-gradient、radial-gradient）
+* 17_表单
+    * 17_表格
+    * 17_表单（文本框、密码框、按钮框、下拉列表、提交按钮）
+* 18_过渡
+* 19_动画
+    * 19_动画1（@keyframes、animation）
+    * 19_动画2
+* 20_less
+* 21_变形（平移、旋转、缩放）
 
